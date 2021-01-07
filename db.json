@@ -56,6 +56,26 @@
                     "price": 2000
                 }
             ]
+        },
+	    
+	{
+            "title": "C",
+            "value": [
+                {
+                    "title": "Basic",
+                    "img": "https://i.morioh.com/2019/12/30/fce63a3ecf7e.jpg",
+                    "text":"Learn Python Programming Masterclass",
+					"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4",
+                    "price": 1100
+                },
+                {
+                    "title": "Core",
+                    "img": "https://www.rextonitsolutions.com/uploads/courses/subcourses/2c839d077a89787c642eda102e0fe2dd.jpg",
+                    "text":"The Python Mega Course: Build 10 Real World Applications",
+					"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4",
+                    "price": 2500
+                }
+            ]
         }
     ],
     "videoDetails": [
