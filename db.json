@@ -1,0 +1,78 @@
+{
+    "courses": [
+        {
+            "title": "javaScript",
+            "value": [
+                {
+                    "title": "Angular",
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
+                    "text":"Angular - The Complete Guide (2021 Edition)",
+					"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4",
+                    "price": 999
+                },
+                {
+                    "title": "React",
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+                    "text":"React - The Complete Guide (incl Hooks, React Router, Redux)",
+					"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_11_Characters_from_the_Mahabharat.mp4",
+                    "price": 1999
+                }
+            ]
+        },
+        {
+            "title": "Html",
+            "value": [
+                {
+                    "title": "HTML Tags",
+                    "img": "https://cdn.lynda.com/course/170427/170427-637363828865101045-16x9.jpg",
+                    "text":"Build Responsive Real World Websites with HTML5 and CSS3",
+					"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4",
+                    "price": 1799
+                },
+                {
+                    "title": "CSS",
+                    "img": "https://disenowebakus.net/en/images/articles/learn-css.jpg",
+                    "text":" The easiest way to learn modern web design, HTML5 and CSS3 step-by-step from scratch.",
+					 "video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_11_Characters_from_the_Mahabharat.mp4",
+                    "price": 1899
+                }
+            ]
+        },
+        {
+            "title": "Python",
+            "value": [
+                {
+                    "title": "Basic",
+                    "img": "https://i.morioh.com/2019/12/30/fce63a3ecf7e.jpg",
+                    "text":"Learn Python Programming Masterclass",
+					"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4",
+                    "price": 1000
+                },
+                {
+                    "title": "Core",
+                    "img": "https://www.rextonitsolutions.com/uploads/courses/subcourses/2c839d077a89787c642eda102e0fe2dd.jpg",
+                    "text":"The Python Mega Course: Build 10 Real World Applications",
+					"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4",
+                    "price": 2000
+                }
+            ]
+        }
+    ],
+    "videoDetails": [
+        {
+            "videoUrl": "https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4",
+            "videoPoster": "https://www.mindinventory.com/blog/wp-content/uploads/2020/07/angular-10.png",
+            "title": "Introduction"
+        },
+        {
+            "videoUrl": "https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_11_Characters_from_the_Mahabharat.mp4",
+            "videoPoster": "https://www.mindinventory.com/blog/wp-content/uploads/2020/07/angular-10.png",
+            "title": "Syntax"
+        },
+        {
+            "videoUrl": "https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_12_Cities_of_the_World.mp4",
+            "videoPoster": "https://www.mindinventory.com/blog/wp-content/uploads/2020/07/angular-10.png",
+            "title": "Hellow Wolrd program"
+        }
+    ]
+}
