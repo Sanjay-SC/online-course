@@ -7,6 +7,7 @@
                     "title": "Angular",
                     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
                     "text":"Angular - The Complete Guide (2021 Edition)",
+			"author":"John",
 					"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4",
                     "price": 999,
 			
@@ -25,6 +26,7 @@
                     "title": "React",
                     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
                     "text":"React - The Complete Guide (incl Hooks, React Router, Redux)",
+			"author":"Sam",
 					"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_11_Characters_from_the_Mahabharat.mp4",
                     "price": 1999,
 			"detail":[
@@ -44,6 +46,7 @@
                     "title": "HTML Tags",
                     "img": "https://cdn.lynda.com/course/170427/170427-637363828865101045-16x9.jpg",
                     "text":"Build Responsive Real World Websites with HTML5 and CSS3",
+			"author":"Abdul Bari",
 					"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4",
                     "price": 1799,
 			
@@ -60,6 +63,7 @@
                     "title": "CSS",
                     "img": "https://disenowebakus.net/en/images/articles/learn-css.jpg",
                     "text":" The easiest way to learn modern web design, HTML5 and CSS3 step-by-step from scratch.",
+			"author":"Abdul Bari",
 		    "video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_11_Characters_from_the_Mahabharat.mp4",
                     "price": 1899,
 			
@@ -80,6 +84,7 @@
                     "title": "Basic",
                     "img": "https://i.morioh.com/2019/12/30/fce63a3ecf7e.jpg",
                     "text":"Learn Python Programming Masterclass",
+			"author":"Shibaji Paul",
 					"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4",
                     "price": 1000,
 			"detail":[
@@ -94,6 +99,7 @@
                     "title": "Core",
                     "img": "https://www.rextonitsolutions.com/uploads/courses/subcourses/2c839d077a89787c642eda102e0fe2dd.jpg",
                     "text":"The Python Mega Course: Build 10 Real World Applications",
+			"author":"Shibaji Paul",
 					"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4",
                     "price": 2000,
 			"detail":[
@@ -114,6 +120,7 @@
                     "title": "Beginner",
                     "img": "https://1.bp.blogspot.com/-nxid6Xlc4tk/WZdTjNSFYeI/AAAAAAAAFnk/DAH_PDBuU2AnHjF7eEf6JzoKO9yXguUhACLcBGAs/s1600/Top%2B10%2Bvideo%2Btutorial%2Bto%2Blearn%2BC%2BProgramming.jpg",
                     "text":"C Programming For Beginners - Master the C Language",
+			"author":"Vlad Budniski",
 		    "video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4",
                     "price": 1100,
 			"detail":[
@@ -128,6 +135,7 @@
                     "title": "Advanced",
                     "img": "https://1.bp.blogspot.com/-nxid6Xlc4tk/WZdTjNSFYeI/AAAAAAAAFnk/DAH_PDBuU2AnHjF7eEf6JzoKO9yXguUhACLcBGAs/s1600/Top%2B10%2Bvideo%2Btutorial%2Bto%2Blearn%2BC%2BProgramming.jpg",
                     "text":"Mastering Data Structures & Algorithms using C",
+			"author":"Vlad Budniski",
 		    "video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4",
                     "price": 2550,
 			"detail":[
@@ -149,6 +157,7 @@
                     "title": "Beginner",
                     "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg",
                     "text":"Beginning Php Programming - From Beginner to Beyond",
+			"author":"Vlad Budniski",
 		    "video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4",
                     "price": 1300,
 			"detail":[
@@ -163,6 +172,7 @@
                     "title": "Advanced",
                     "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg",
                     "text":"PHP with Laravel for beginners - Become a Master in Laravel",
+			"author":"Vlad Budniski",
 		    "video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4",
                     "price": 2500,
 			"detail":[
