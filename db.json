@@ -13,7 +13,7 @@
 			"detail":[
 				{
 				"title":"Angular",
-				"text":"Loream jashja askjahsv kjhsdjasd ajshdjasd ahjhsjask kkj sakjh akj shkja shkajshkjahsjags    ajasj hkahskjahs k",
+				"text":"Master Angular 10 (formerly "Angular 2") and build awesome, reactive web apps with the successor of Angular.js",
 				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4"
 				}
 			]
@@ -26,7 +26,14 @@
                     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
                     "text":"React - The Complete Guide (incl Hooks, React Router, Redux)",
 					"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_11_Characters_from_the_Mahabharat.mp4",
-                    "price": 1999
+                    "price": 1999,
+			"detail":[
+				{
+				"title":"React",
+				"text":"Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_11_Characters_from_the_Mahabharat.mp4"
+				}
+			]
                 }
             ]
         },
