@@ -85,7 +85,7 @@
 			"detail":[
 				{
 				"title":"Basic",
-				"detailtext":"",
+				"detailtext":" Detail Content Here ",
 				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4"
 				}
 			]
@@ -98,8 +98,8 @@
                     "price": 2000,
 			"detail":[
 				{
-				"title":"Basic",
-				"detailtext":"",
+				"title":"Core",
+				"detailtext":" Detail Content Here ",
 				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4"
 				}
 			]
@@ -118,8 +118,8 @@
                     "price": 1100,
 			"detail":[
 				{
-				"title":"Basic",
-				"detailtext":"",
+				"title":"Beginner",
+				"detailtext":" Detail Content Here ",
 				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4"
 				}
 			]
@@ -133,7 +133,7 @@
 			"detail":[
 				{
 				"title":"Advanced",
-				"detailtext":"",
+				"detailtext":" Detail Content Here ",
 				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4"
 				}
 			]
@@ -154,7 +154,7 @@
 			"detail":[
 				{
 				"title":"Basic",
-				"detailtext":"",
+				"detailtext":" Detail Content Here ",
 				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4"
 				}
 			]
@@ -168,7 +168,7 @@
 			"detail":[
 				{
 				"title":"Advanced",
-				"detailtext":"",
+				"detailtext":" Detail Content Here ",
 				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4"
 				}
 			]
