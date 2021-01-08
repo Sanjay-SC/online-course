@@ -117,30 +117,15 @@
                     "img": "https://1.bp.blogspot.com/-nxid6Xlc4tk/WZdTjNSFYeI/AAAAAAAAFnk/DAH_PDBuU2AnHjF7eEf6JzoKO9yXguUhACLcBGAs/s1600/Top%2B10%2Bvideo%2Btutorial%2Bto%2Blearn%2BC%2BProgramming.jpg",
                     "text":"C Programming For Beginners - Master the C Language",
 		    "video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4",
-                    "price": 1100,
-			
-			"detail":[
-				{
-				"title":"Beginner",
-				"detailtext":"C is often considered to be the mother of all languages because so many other languages have been based on it.Though C is simple it is one of the most powerful languages ever created.  Considering it was created over 40 years ago, it is still used heavily and is usually in the top 5 or 10 most popular and most widely programming languages in the world.Learning C can actually make you a better programming in other languages like C++, Java, or C# by equipping you with a mental model of what the computer is actually doing when you run your programs.By learning how things really work 'under the hood', and understand memory space, CPU architecture and so on, you can create more efficient programs, and obtain a huge advantage over other programmers in the process.If you want to become a better developer, learning C is a great way to start!",
-				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4"
-				}
-			]
+                    "price": 1100
                 },
                 {
                     "title": "Advanced",
                     "img": "https://1.bp.blogspot.com/-nxid6Xlc4tk/WZdTjNSFYeI/AAAAAAAAFnk/DAH_PDBuU2AnHjF7eEf6JzoKO9yXguUhACLcBGAs/s1600/Top%2B10%2Bvideo%2Btutorial%2Bto%2Blearn%2BC%2BProgramming.jpg",
                     "text":"Mastering Data Structures & Algorithms using C",
 		    "video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4",
-                    "price": 2500,
+                    "price": 2500
 			
-			"detail":[
-				{
-				"title":"Advanced",
-				"detailtext":"By the end of this course, you will understand the fundamentals of the C Programming Language, and make yourself more marketable for entry level programming positions.You will understand variables and the different data types, be able to utilize functions and arrays, understand the  concept of pointers, learn about control flow (decision statements and iteration).You will be in a position to apply for real-time programming positions, and truly understand the core language that most modern languages are based on!If you have previously used the C programming language, then this course will deepen your understanding of it. If you have never used it, no problem, you will see that it can help you become a more efficient C developer.The course will be constantly refined in the future based on student feedback!",
-				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4"
-				}
-			]
                 }
             ]
         },
