@@ -81,14 +81,30 @@
                     "img": "https://i.morioh.com/2019/12/30/fce63a3ecf7e.jpg",
                     "text":"Learn Python Programming Masterclass",
 					"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4",
-                    "price": 1000
+                    "price": 1000,
+			
+			"detail":[
+				{
+				"title":"Basic",
+				"detailtext":"This course is aimed at complete beginners who have never programmed before, as well as existing programmers who want to increase their career options by learning Python.The fact is, Python is one of the most popular programming languages in the world – Huge companies like Google use it in mission critical applications like Google Search.And Python is the number one language choice for machine learning, data science and artificial intelligence. To get those high paying jobs you need an expert knowledge of Python, and that’s what you will get from this course.",
+				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4"
+				}
+			]
                 },
                 {
                     "title": "Core",
                     "img": "https://www.rextonitsolutions.com/uploads/courses/subcourses/2c839d077a89787c642eda102e0fe2dd.jpg",
                     "text":"The Python Mega Course: Build 10 Real World Applications",
 					"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4",
-                    "price": 2000
+                    "price": 2000,
+			
+			"detail":[
+				{
+				"title":"Core",
+				"detailtext":"By the end of the course you’ll be able to apply in confidence for Python programming jobs. And yes, this applies even if you have never programmed before. With the right skills which you will learn in this course, you can become employable and valuable in the eyes of future employers.Here’s what a few students have told us about the course after going through it.“I had very limited programming experience before I started this course, so I have really learned a lot from the first few sections. It has taken me from essentially zero programming skill to a level where I'm comfortable using Python to analyze data for my lab reports, and I'm not even halfway done the course yet. There are other courses out there which focus on data analysis, but those courses are usually targeted at people who already know how to program which is why I chose this course instead. “ – Christian DiMaria",
+				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4"
+				}
+			]
                 }
             ]
         },
