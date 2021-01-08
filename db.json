@@ -115,14 +115,28 @@
                     "img": "https://1.bp.blogspot.com/-nxid6Xlc4tk/WZdTjNSFYeI/AAAAAAAAFnk/DAH_PDBuU2AnHjF7eEf6JzoKO9yXguUhACLcBGAs/s1600/Top%2B10%2Bvideo%2Btutorial%2Bto%2Blearn%2BC%2BProgramming.jpg",
                     "text":"C Programming For Beginners - Master the C Language",
 		    "video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4",
-                    "price": 1100
+                    "price": 1100,
+			"detail":[
+				{
+				"title":"Basic",
+				"detailtext":"",
+				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4"
+				}
+			]
                 },
                 {
                     "title": "Advanced",
                     "img": "https://1.bp.blogspot.com/-nxid6Xlc4tk/WZdTjNSFYeI/AAAAAAAAFnk/DAH_PDBuU2AnHjF7eEf6JzoKO9yXguUhACLcBGAs/s1600/Top%2B10%2Bvideo%2Btutorial%2Bto%2Blearn%2BC%2BProgramming.jpg",
                     "text":"Mastering Data Structures & Algorithms using C",
 		    "video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4",
-                    "price": 2500
+                    "price": 2500,
+			"detail":[
+				{
+				"title":"Advanced",
+				"detailtext":"",
+				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4"
+				}
+			]
 			
                 }
             ]
@@ -136,14 +150,28 @@
                     "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg",
                     "text":"Beginning Php Programming - From Beginner to Beyond",
 		    "video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4",
-                    "price": 1100
+                    "price": 1100,
+			"detail":[
+				{
+				"title":"Basic",
+				"detailtext":"",
+				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_10_Groups Names.mp4"
+				}
+			]
                 },
                 {
                     "title": "Advanced",
                     "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg",
                     "text":"PHP with Laravel for beginners - Become a Master in Laravel",
 		    "video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4",
-                    "price": 2500
+                    "price": 2500,
+			"detail":[
+				{
+				"title":"Advanced",
+				"detailtext":"",
+				"video":"https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4"
+				}
+			]
                 }
             ]
         }    
